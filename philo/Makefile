@@ -6,7 +6,7 @@
 #    By: gcredibl <gcredibl@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/07/24 14:11:20 by gcredibl          #+#    #+#              #
-#    Updated: 2021/07/24 15:27:26 by gcredibl         ###   ########.fr        #
+#    Updated: 2021/07/25 13:49:44 by gcredibl         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -17,7 +17,7 @@ FLAGS = gcc -Wall -Wextra -Werror
 OBJ_DIR = obj/
 
 CFILES = main.c \
-		create.c \
+		create_params.c \
 		eat.c \
 		utils.c
 
